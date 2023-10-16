@@ -1,0 +1,22 @@
+# Selección-patrón-diseño
+
+* Status: proposed
+* Date: 2023-10-16
+
+## Context and Problem Statement
+
+XXXXX
+
+## Decision Drivers
+
+* XXXXX
+* XXXXX
+
+## Considered Options
+
+* 0002-1-YYYYY
+* 0002-2-ZZZZZZ
+
+## Decision Outcome
+
+Chosen option: "0002-2-ZZZZZZ", because comes out best.
