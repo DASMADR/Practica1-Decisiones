@@ -23,7 +23,7 @@ Chosen option: "0001-2-Arquitectura-Peer-Computing", because Es la mejor......2 
 
 ### Positive Consequences
 
-* positivo  2
+* positivo  2.1
 
 ### Negative Consequences
 
