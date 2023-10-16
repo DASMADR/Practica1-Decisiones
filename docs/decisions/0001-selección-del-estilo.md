@@ -19,7 +19,15 @@ En el contexto de nuestro proyecto de desarrollo de software, hemos decidido ado
 
 ## Decision Outcome
 
-Chosen option: "0001-1-Arquitectura-Cliente-Servidor-dos-Capas", because Es la mejor......
+Chosen option: "0001-2-Arquitectura-Peer-Computing", because Es la mejor......2
+
+### Positive Consequences
+
+* ssss
+
+### Negative Consequences
+
+* ssss
 
 ## Pros and Cons of the Options
 
