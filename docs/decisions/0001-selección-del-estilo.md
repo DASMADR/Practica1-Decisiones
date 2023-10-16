@@ -19,15 +19,15 @@ En el contexto de nuestro proyecto de desarrollo de software, hemos decidido ado
 
 ## Decision Outcome
 
-Chosen option: "0001-2-Arquitectura-Peer-Computing", because Es la mejor......2
+Chosen option: "0001-2-Arquitectura-Peer-Computing", because Es la mejor......2 dos trres
 
 ### Positive Consequences
 
-* ssss
+* positivo  2
 
 ### Negative Consequences
 
-* ssss
+* negativo 2
 
 ## Pros and Cons of the Options
 
